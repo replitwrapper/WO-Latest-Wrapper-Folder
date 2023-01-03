@@ -1,7 +1,7 @@
 {
 	"SWF_URL": "https://replitwrapper.github.io/server/animation/414827163ad4eb60",
 	"STORE_URL": "https://replitwrapper.github.io/server/store/3a981f5cb2739137",
-	"CLIENT_URL": "/static/ad44370a650793d9",
+	"CLIENT_URL": "https://replitwrapper.github.io/server/static/ad44370a650793d9",
 	"CHAR_BASE_URL": "https://replitwrapper.github.io/server/characters",
 	"THUMB_BASE_URL": "https://replitwrapper.github.io/server/thumbnails",
 	"XML_HEADER": "<?xml version=\"1.0\" encoding=\"utf-8\"?>",
